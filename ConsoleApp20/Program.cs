@@ -11,6 +11,7 @@ namespace ConsoleApp20
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.ReadKey();
         }
     }
 }
